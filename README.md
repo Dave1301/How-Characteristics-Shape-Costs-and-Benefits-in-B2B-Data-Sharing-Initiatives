@@ -29,9 +29,9 @@ The dataset comprises 100 B2B data sharing initiatives selected through a struct
 
 **Taxonomy 1 — Structural Classification.** Classifies initiatives based on their structural characteristics across 6 meta-dimensions (Governance and control, Value creation and use, Market structure and interaction, Pricing logic, Organization, Service medium), 14 dimensions, and 50 characteristics.
 
-**Taxonomy 2 — Value Offering and Realization.** Captures the concrete cost-benefit mechanisms delivered to participants. Structured along two axes (offering vs.\ realization, provider vs.\ consumer), it contains 4 meta-dimensions, 18 dimensions, and 74 characteristics.
+**Taxonomy 2 — Value Offering and Realization.** Captures the concrete cost-benefit mechanisms delivered to participants. Structured along two axes (offering vs. realization, provider vs. consumer), it contains 4 meta-dimensions, 18 dimensions, and 74 characteristics.
 
-Both taxonomies were developed following the iterative method of Nickerson et al.\ (2013), as refined by Kundisch et al.\ (2022).
+Both taxonomies were developed following the iterative method of Nickerson et al. (2013), as refined by Kundisch et al. (2022).
 
 ## Repository contents
 
@@ -54,8 +54,8 @@ If you use this dataset, please cite the master's thesis:
 
 ## Supervisors and counsellor
 
-- Prof.\ dr.\ ir.\ Sofie Verbrugge (supervisor)
-- Prof.\ dr.\ ir.\ Didier Colle (supervisor)
+- Prof. dr. ir. Sofie Verbrugge (supervisor)
+- Prof. dr. ir. Didier Colle (supervisor)
 - Maarten de Mildt (counsellor)
 
 ## License
