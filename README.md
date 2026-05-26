@@ -1,0 +1,2 @@
+# How-Characteristics-Shape-Costs-and-Benefits-in-B2B-Data-Sharing-Initiatives
+Dataset of 100 B2B data sharing initiatives across six sectors (sustainability, agri-food, manufacturing &amp; automotive, supply chain networks, mobility, pharmaceutical). Coded against two taxonomies: structural classification (50 characteristics) and value offering &amp; realization (74 characteristics). Compiled for a UGent master's thesis.
