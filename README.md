@@ -35,11 +35,11 @@ Both taxonomies were developed following the iterative method of Nickerson et al
 
 ## Repository contents
 
-- `Dataset_final.xlsx` — the full dataset, containing four sheets:
-  - **Set list of cases** — the 100 cases with sector and initiative type (platform or ecosystem)
-  - **Criteria** — case inclusion criteria
-  - **Mapping 1st taxonomy** — coding of each case against Taxonomy 1
-  - **Mapping 2nd taxonomy** — coding of each case against Taxonomy 2
+- `Dataset_final.xlsx` — the full dataset in Excel format, containing four sheets
+- `data/cases.csv` — list of 100 cases with sector and initiative type
+- `data/criteria.csv` — case inclusion criteria
+- `data/taxonomy1_structural.csv` — coding against Taxonomy 1 (Structural Classification)
+- `data/taxonomy2_value.csv` — coding against Taxonomy 2 (Value Offering and Realization)
 - `README.md` — this file
 
 ## How the data was coded
