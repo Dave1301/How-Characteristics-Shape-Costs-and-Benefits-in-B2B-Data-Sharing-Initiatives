@@ -56,7 +56,7 @@ If you use this dataset, please cite the master's thesis:
 
 - Prof.\ dr.\ ir.\ Sofie Verbrugge (supervisor)
 - Prof.\ dr.\ ir.\ Didier Colle (supervisor)
-- Maarten de Mildt (counsellor, imec)
+- Maarten de Mildt (counsellor)
 
 ## License
 
